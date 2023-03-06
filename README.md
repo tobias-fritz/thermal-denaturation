@@ -2,7 +2,7 @@
 
 ## Description 
 Based on Consalvi et al.,Protein Engineering, 2000 and [this](https://github.com/eloyvallinaes/protein-physics-2022/blob/67d116063917e8a6a1fa7965dc36d79ffe8608e0/logisticModel.ipynb) notebook for fitting a simple logistic model to chemical denaturation data.<br>
-Here I show how to fit a sigmoidal denaturation curve, assuming a two-state equilibrium and the reversability of the process.
+Here I show how to fit a sigmoidal denaturation curve and extract standard reaction enthalpy $\delta H$, midpoint temperature $T_{m}$, assuming a two-state equilibrium and the reversability of the process.
 
 ## Setup
 
