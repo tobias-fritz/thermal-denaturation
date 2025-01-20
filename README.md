@@ -1,6 +1,6 @@
 # Fitting Thermal Denaturation Data
 
-This project is based on Consalvi et al., Protein Engineering, 2000 and [this notebook](https://github.com/eloyvallinaes/protein-physics-2022/blob/67d116063917e8a6a1fa7965dc36d79ffe8608e0/logisticModel.ipynb) for fitting a simple logistic model to chemical denaturation data.
+This project is based on Consalvi et al., (Protein Engineering, 2000) and [this notebook](https://github.com/eloyvallinaes/protein-physics-2022/blob/67d116063917e8a6a1fa7965dc36d79ffe8608e0/logisticModel.ipynb) for fitting a simple logistic model to chemical denaturation data.
 
 The goal is to fit a sigmoidal denaturation curve and extract the standard reaction enthalpy ($\Delta H$) and midpoint temperature ($T_{m}$), assuming a two-state equilibrium and the reversibility of the process.
 
